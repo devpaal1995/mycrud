@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "Name": "",
+      "username": "sasasa",
+      "email": "devendrapal181@gmail.com",
+      "phone": "07987014828",
+      "name": "devendra pal",
+      "id": 1
+    },
+    {
+      "Name": "",
+      "username": "dev toniii",
+      "email": "devendrapal181@gmail.com",
+      "phone": "07987014828",
+      "name": "devendra pal",
+      "id": 2
+    },
+    {
+      "Name": "",
+      "username": "Dhanoo",
+      "email": "amitsolanki@gmail.com",
+      "phone": "7566233588",
+      "name": "Amitt Solanki",
+      "id": 3
+    },
+    {
+      "Name": "",
+      "username": "Captain Cool",
+      "email": "mahidhoni@cri.captain.coogmail.com",
+      "phone": "009987654321",
+      "name": "Ms. Dhonii",
+      "id": 4
+    }
+  ]
+}
